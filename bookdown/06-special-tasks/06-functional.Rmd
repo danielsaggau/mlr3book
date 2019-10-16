@@ -10,4 +10,4 @@ There are two ways to model functional data:
 * Modification of the learner to be suitable for the functional data
 * Modification of the task to be suitable for the standard- or classification-learner
 
-More information about functional analysis following soon!
+More information is following soon!
